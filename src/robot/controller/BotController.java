@@ -8,7 +8,7 @@ import robot.model.EV3Bot;
 /**
  *  
  * @author htha9587
- *Version 0.x Dec 14, 2015
+ *Version 0.2x 3-18-16
  */
 
 public class BotController 

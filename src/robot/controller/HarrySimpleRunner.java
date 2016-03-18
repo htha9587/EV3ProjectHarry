@@ -1,6 +1,11 @@
 package robot.controller;
 
-
+/**
+ * 
+ * @author htha9587
+ *Version 0.2
+ *3-18-16
+ */
 
 public class HarrySimpleRunner 
 {
